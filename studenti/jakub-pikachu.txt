@@ -1,2 +1,8 @@
 Pikachu
 uuuaaaa pika pikaa uaaaa
+git log --oneline
+13c3678 (HEAD -> main) zvuk pokemona
+33423ee nazev pokemona
+9c96a53 (origin/main, origin/HEAD) formátování
+35f6131 zadání
+9c169fd Initial commit
